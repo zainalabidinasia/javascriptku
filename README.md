@@ -1,0 +1,2 @@
+# javascriptku
+terserah kaulah
